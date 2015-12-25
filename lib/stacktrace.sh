@@ -3,9 +3,11 @@ main() {
 
   local frame=1
 
-  while caller $frame; do
+  while printf "      " && caller $frame; do
     ((frame++))
   done
+
+  printf "\r"
 
   exit 1
 }
