@@ -1,5 +1,5 @@
 main() {
-  printf "$1"
+  printf "$1\n"
 
   local frame=1
 
