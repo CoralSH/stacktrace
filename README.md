@@ -1,4 +1,4 @@
-# stacktrace
+# `stacktrace`
 `stacktrace` is a lightweight stack trace implemented in Shell using the `caller` builtin.
 
 It can be used as a debugging tool to determine the functions (and respective files) a script has been through up until the point `stacktrace` is called.
