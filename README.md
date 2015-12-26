@@ -33,3 +33,5 @@ Avoid [code smells](http://blog.codinghorror.com/code-smells/), [create reusable
 Fork the code, make a new branch, and send in a pull request.
 
 See the [TODO](#todo) below for some contributions you can work on!
+
+## TODO
