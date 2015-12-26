@@ -23,3 +23,13 @@ stacktrace start [main <increment=2> <start=1>] # Default settings work great wi
 
 ## Acknowledgements
 The original source of this script was found on the [Bash Hackers Wiki](http://wiki.bash-hackers.org/commands/builtin/caller).
+
+## Contributing
+
+Contributions are always welcome, from a typo in the README to an enhancement of a feature to a completely new feature itself.
+
+Avoid [code smells](http://blog.codinghorror.com/code-smells/), [create reusable code](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), and follow the loosely-modeled coding standard found in the current code.
+
+Fork the code, make a new branch, and send in a pull request.
+
+See the [TODO](#todo) below for some contributions you can work on!
