@@ -12,6 +12,14 @@ coral install stacktrace --save # Install `stacktrace` in current package and sa
 ```
 
 ## Usage
+Firstly, add `stacktrace` to your project:
+```shell
+. $(coral_bootstrap) # Load the Coral ecosystem.
+require "stacktrace"
+```
+
+Now you can use any of the commands below!
+
 - `stacktrace` or `stacktrace main`
 - `stacktrace main <increment>`
 - `stacktrace main <increment> <start>`
