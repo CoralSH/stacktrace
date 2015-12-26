@@ -35,3 +35,10 @@ Fork the code, make a new branch, and send in a pull request.
 See the [TODO](#todo) below for some contributions you can work on!
 
 ## TODO
+
+## Core Team
+- Nimit Kalra
+  - <me@nimit.io>
+  - <http://nimit.io>
+  - <https://github.com/qw3rtman>
+  - <https://twitter.com/qw3rtman>
