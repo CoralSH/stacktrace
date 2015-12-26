@@ -4,7 +4,7 @@
 It can be used as a debugging tool to determine the functions (and respective files) a script has been through up until the point `stacktrace` is called.
 
 ## Installation
-`stacktrace` can be installed via `coral`:
+`stacktrace` can be installed via [`coral`](http://coral.sh):
 
 ```shell
 coral install stacktrace # Install `stacktrace` in current package.
