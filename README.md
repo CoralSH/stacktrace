@@ -12,15 +12,11 @@ coral install stacktrace --save # Install `stacktrace` in current package and sa
 ```
 
 ## Usage
-```shell
-stacktrace start [main <increment=2> <start=1>] # Default settings work great with Coral packages!
-```
-
-
-- `increment`: how many call frames to increment over
-- `start`: which call frame to start on (top frame is `0`)
-
-
 - `stacktrace` or `stacktrace main`
 - `stacktrace main <increment>`
 - `stacktrace main <increment> <start>`
+```shell
+stacktrace start [main <increment=2> <start=1>] # Default settings work great with Coral packages!
+```
+- `increment`: how many call frames to increment over
+- `start`: which call frame to start on (top frame is `0`)
