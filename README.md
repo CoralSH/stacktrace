@@ -20,3 +20,6 @@ stacktrace start [main <increment=2> <start=1>] # Default settings work great wi
 ```
 - `increment`: how many call frames to increment over
 - `start`: which call frame to start on (top frame is `0`)
+
+## Acknowledgements
+The original source of this script was found on the [Bash Hackers Wiki](http://wiki.bash-hackers.org/commands/builtin/caller).
